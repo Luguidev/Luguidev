@@ -1,8 +1,8 @@
 ### --> Olá, Sou Luiz Guilherme! 
 
-- ### sou novo por aqui e brevemente irei atualizando algo :)
-- ### Explorando o mundo do Desenvolvimento Web(Back/Front End)
-- ### ATUALMENTE ESTUDANDO:
+- ### 😎sou novo por aqui e brevemente irei atualizando algo :)
+- ### 👩‍💻Explorando o mundo do Desenvolvimento Web(Back/Front End)
+- ### 📚ATUALMENTE ESTUDANDO:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>
 
 
